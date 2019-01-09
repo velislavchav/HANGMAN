@@ -1,0 +1,60 @@
+C:\Users\Chavdarov\Desktop\HANGMAN_GPI\Hangman\Hangman\obj\Debug\Hangman.Game.resources
+C:\Users\Chavdarov\Desktop\HANGMAN_GPI\Hangman\Hangman\obj\Debug\Hangman.Login.resources
+C:\Users\Chavdarov\Desktop\HANGMAN_GPI\Hangman\Hangman\obj\Debug\Hangman.Menu.resources
+C:\Users\Chavdarov\Desktop\HANGMAN_GPI\Hangman\Hangman\obj\Debug\Hangman.Properties.Resources.resources
+C:\Users\Chavdarov\Desktop\HANGMAN_GPI\Hangman\Hangman\obj\Debug\Hangman.csproj.GenerateResource.Cache
+C:\Users\Chavdarov\Desktop\HANGMAN_GPI\Hangman\Hangman\bin\Debug\Hangman.exe.config
+C:\Users\Chavdarov\Desktop\HANGMAN_GPI\Hangman\Hangman\bin\Debug\Hangman.exe
+C:\Users\Chavdarov\Desktop\HANGMAN_GPI\Hangman\Hangman\bin\Debug\Hangman.pdb
+C:\Users\Chavdarov\Desktop\HANGMAN_GPI\Hangman\Hangman\obj\Debug\Hangman.exe
+C:\Users\Chavdarov\Desktop\HANGMAN_GPI\Hangman\Hangman\obj\Debug\Hangman.pdb
+C:\Users\Chavdarov\Desktop\HANGMAN_GPI\Hangman\Hangman\obj\Debug\Hangman.AddNewWord.resources
+F:\HANGMAN_GPI\Hangman\Hangman\bin\Debug\Hangman.exe.config
+F:\HANGMAN_GPI\Hangman\Hangman\obj\Debug\Hangman.exe
+F:\HANGMAN_GPI\Hangman\Hangman\obj\Debug\Hangman.pdb
+F:\HANGMAN_GPI\Hangman\Hangman\bin\Debug\Hangman.exe
+F:\HANGMAN_GPI\Hangman\Hangman\bin\Debug\Hangman.pdb
+F:\HANGMAN_GPI\Hangman\Hangman\obj\Debug\Hangman.AddNewWord.resources
+F:\HANGMAN_GPI\Hangman\Hangman\obj\Debug\Hangman.Game.resources
+F:\HANGMAN_GPI\Hangman\Hangman\obj\Debug\Hangman.Login.resources
+F:\HANGMAN_GPI\Hangman\Hangman\obj\Debug\Hangman.Menu.resources
+F:\HANGMAN_GPI\Hangman\Hangman\obj\Debug\Hangman.Properties.Resources.resources
+F:\HANGMAN_GPI\Hangman\Hangman\obj\Debug\Hangman.csproj.GenerateResource.Cache
+D:\HANGMAN_GPI\Hangman\Hangman\bin\Debug\Hangman.exe.config
+D:\HANGMAN_GPI\Hangman\Hangman\obj\Debug\Hangman.exe
+D:\HANGMAN_GPI\Hangman\Hangman\obj\Debug\Hangman.pdb
+D:\HANGMAN_GPI\Hangman\Hangman\bin\Debug\Hangman.exe
+D:\HANGMAN_GPI\Hangman\Hangman\bin\Debug\Hangman.pdb
+D:\HANGMAN_GPI\Hangman\Hangman\obj\Debug\Hangman.csprojResolveAssemblyReference.cache
+D:\HANGMAN_GPI\Hangman\Hangman\obj\Debug\Hangman.AddNewWord.resources
+D:\HANGMAN_GPI\Hangman\Hangman\obj\Debug\Hangman.Game.resources
+D:\HANGMAN_GPI\Hangman\Hangman\obj\Debug\Hangman.Login.resources
+D:\HANGMAN_GPI\Hangman\Hangman\obj\Debug\Hangman.Menu.resources
+D:\HANGMAN_GPI\Hangman\Hangman\obj\Debug\Hangman.Properties.Resources.resources
+D:\HANGMAN_GPI\Hangman\Hangman\obj\Debug\Hangman.csproj.GenerateResource.Cache
+C:\Users\Chavdarov\Desktop\HANGMAN_GPI\Hangman\Hangman\obj\Debug\Hangman.csprojResolveAssemblyReference.cache
+C:\Users\Chavdarov\Desktop\Stuff\HANGMAN_GPI\Hangman\Hangman\bin\Debug\Hangman.exe.config
+C:\Users\Chavdarov\Desktop\Stuff\HANGMAN_GPI\Hangman\Hangman\obj\Debug\Hangman.exe
+C:\Users\Chavdarov\Desktop\Stuff\HANGMAN_GPI\Hangman\Hangman\obj\Debug\Hangman.pdb
+C:\Users\Chavdarov\Desktop\Stuff\HANGMAN_GPI\Hangman\Hangman\bin\Debug\Hangman.exe
+C:\Users\Chavdarov\Desktop\Stuff\HANGMAN_GPI\Hangman\Hangman\bin\Debug\Hangman.pdb
+C:\Users\Chavdarov\Desktop\Stuff\HANGMAN_GPI\Hangman\Hangman\obj\Debug\Hangman.csprojResolveAssemblyReference.cache
+C:\Users\Chavdarov\Desktop\Stuff\HANGMAN_GPI\Hangman\Hangman\obj\Debug\Hangman.AddNewWord.resources
+C:\Users\Chavdarov\Desktop\Stuff\HANGMAN_GPI\Hangman\Hangman\obj\Debug\Hangman.Game.resources
+C:\Users\Chavdarov\Desktop\Stuff\HANGMAN_GPI\Hangman\Hangman\obj\Debug\Hangman.Login.resources
+C:\Users\Chavdarov\Desktop\Stuff\HANGMAN_GPI\Hangman\Hangman\obj\Debug\Hangman.Menu.resources
+C:\Users\Chavdarov\Desktop\Stuff\HANGMAN_GPI\Hangman\Hangman\obj\Debug\Hangman.Properties.Resources.resources
+C:\Users\Chavdarov\Desktop\Stuff\HANGMAN_GPI\Hangman\Hangman\obj\Debug\Hangman.csproj.GenerateResource.Cache
+C:\Users\Chavdarov\Desktop\Stuff\Course 1\HANGMAN_GPI\Hangman\Hangman\bin\Debug\Hangman.exe.config
+C:\Users\Chavdarov\Desktop\Stuff\Course 1\HANGMAN_GPI\Hangman\Hangman\bin\Debug\Hangman.exe
+C:\Users\Chavdarov\Desktop\Stuff\Course 1\HANGMAN_GPI\Hangman\Hangman\bin\Debug\Hangman.pdb
+C:\Users\Chavdarov\Desktop\Stuff\Course 1\HANGMAN_GPI\Hangman\Hangman\obj\Debug\Hangman.csprojAssemblyReference.cache
+C:\Users\Chavdarov\Desktop\Stuff\Course 1\HANGMAN_GPI\Hangman\Hangman\obj\Debug\Hangman.AddNewWord.resources
+C:\Users\Chavdarov\Desktop\Stuff\Course 1\HANGMAN_GPI\Hangman\Hangman\obj\Debug\Hangman.Game.resources
+C:\Users\Chavdarov\Desktop\Stuff\Course 1\HANGMAN_GPI\Hangman\Hangman\obj\Debug\Hangman.Login.resources
+C:\Users\Chavdarov\Desktop\Stuff\Course 1\HANGMAN_GPI\Hangman\Hangman\obj\Debug\Hangman.Menu.resources
+C:\Users\Chavdarov\Desktop\Stuff\Course 1\HANGMAN_GPI\Hangman\Hangman\obj\Debug\Hangman.Properties.Resources.resources
+C:\Users\Chavdarov\Desktop\Stuff\Course 1\HANGMAN_GPI\Hangman\Hangman\obj\Debug\Hangman.csproj.GenerateResource.cache
+C:\Users\Chavdarov\Desktop\Stuff\Course 1\HANGMAN_GPI\Hangman\Hangman\obj\Debug\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\Chavdarov\Desktop\Stuff\Course 1\HANGMAN_GPI\Hangman\Hangman\obj\Debug\Hangman.exe
+C:\Users\Chavdarov\Desktop\Stuff\Course 1\HANGMAN_GPI\Hangman\Hangman\obj\Debug\Hangman.pdb
